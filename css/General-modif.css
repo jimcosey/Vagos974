@@ -1,0 +1,17 @@
+/* FOOTER */
+.footer {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(255, 251, 251);
+}
+.color-green {
+  color: #17b978;
+}
+@media screen and (max-width: 992px) {
+  .image-banner img {
+    display: none;
+  }
+}

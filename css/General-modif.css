@@ -10,6 +10,7 @@
 .color-green {
   color: #17b978;
 }
+
 @media screen and (max-width: 992px) {
   .image-banner img {
     display: none;
